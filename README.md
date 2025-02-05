@@ -5,6 +5,7 @@
 ### Objetivo
 El objetivo de estas mejoras es ofrecer una experiencia de usuario (UX) que genere confianza y seguridad, especialmente en el contexto de pagos en línea. A través de esta optimización de la interfaz, se busca inspirar en los usuarios la confianza necesaria para ingresar su información de pago y avanzar sin reservas en el proceso.
 
+![Captura de Pantalla 1](Banco General.png)
 ---
 
 ## Mejoras Implementadas
